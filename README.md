@@ -10,6 +10,9 @@ The design includes user details, credit score, cashback stats, rewards, and tra
 ## 🖼️ Screenshot
 
 Below is the UI screenshot of the completed app:
+
+
+
 ![image alt](https://github.com/Sidd2004Shukla/ProfileUI-CRED-Clone-Assignment/blob/c6c4040f2259e54c0c7d7741bda0b6b6cbc1ad0d/image.png?raw=true)
 
 
